@@ -1,0 +1,5 @@
+﻿git branch -vv
+
+* bug-fix-revert 8f2b161 [origin/bug-fix-revert] Revert "Fix typo in README"
+  bug-fix-typo   bd95958 Fix typo in README
+  main           5263967 [origin/main] Add merge branches verification
