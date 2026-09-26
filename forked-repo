@@ -1,0 +1,7 @@
+curl.exe -s https://api.github.com/repos/shravanidesai24-max/mcino-Introduction-to-Git-and-GitHub | Select-String '"fork"|"full_name"'
+
+"full_name": "shravanidesai24-max/mcino-Introduction-to-Git-and-GitHub",
+"fork": true,
+"full_name":
+"ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+"fork": false,
